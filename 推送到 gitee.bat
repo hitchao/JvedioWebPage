@@ -14,13 +14,13 @@ set /p choice=«Î ‰»Î£∫
 
 if %choice% ==1 (
 	echo ÷¥––√¸¡Ó£∫commit
-	cd %p% && git add --all && git commit -m "C"
+	cd %p% && git add --all && git commit -m "jvedio-vue"
 ) else if %choice% ==2 (
 	echo ÷¥––√¸¡Ó£∫push
 	cd %p% && git push
 ) else if %choice% ==3  (
 	echo ÷¥––√¸¡Ó£∫commit + push
-	cd %p% && git add --all && git commit -m "C" && git push
+	cd %p% && git add --all && git commit -m "jvedio-vue" && git push
 ) else if %choice% ==4  (
 	echo ÷¥––√¸¡Ó£∫pull
 	cd %p% && git pull

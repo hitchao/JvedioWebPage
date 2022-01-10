@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2c88d2bb100f268e4168",
-    "url": "/JvedioWebPage/css/app.d3231039.css"
+    "revision": "3949649785407d172065",
+    "url": "/JvedioWebPage/css/app.a8e682b7.css"
   },
   {
-    "revision": "2c88d2bb100f268e4168",
-    "url": "/JvedioWebPage/js/app.d19ac501.js"
+    "revision": "3949649785407d172065",
+    "url": "/JvedioWebPage/js/app.2f6fbb2a.js"
   },
   {
     "revision": "3e7d7843e1f39cad70f7",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/JvedioWebPage/img/sample1.80d379df.png"
   },
   {
-    "revision": "5c8bce7d7942accacd1f087d290f567a",
+    "revision": "aeaeffbd84f4b45cec0b235d70d38e26",
     "url": "/JvedioWebPage/index.html"
   },
   {
