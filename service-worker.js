@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e96deccf26953bce74ce0c932cc7b9db.js"
+  "/JvedioWebPage/precache-manifest.fb6f5b8956c07ae56bc2e1eded7b5ae2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jvedio-web"});
