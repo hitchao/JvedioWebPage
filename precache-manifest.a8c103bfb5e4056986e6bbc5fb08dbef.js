@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/JvedioWebPage/js/chunk-vendors.134427ab.js"
   },
   {
-    "revision": "535877f50039c0cb49a6196a5b7517cd",
-    "url": "/JvedioWebPage/fonts/element-icons.535877f5.woff"
-  },
-  {
     "revision": "732389ded34cb9c52dd88271f1345af9",
     "url": "/JvedioWebPage/fonts/element-icons.732389de.ttf"
+  },
+  {
+    "revision": "535877f50039c0cb49a6196a5b7517cd",
+    "url": "/JvedioWebPage/fonts/element-icons.535877f5.woff"
   },
   {
     "revision": "d87c1b99dd4eb8caa1126d8fa0c8cd47",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/JvedioWebPage/img/sample1.80d379df.png"
   },
   {
-    "revision": "aeaeffbd84f4b45cec0b235d70d38e26",
+    "revision": "a9713d91ed2a6953f74f6119e58445ca",
     "url": "/JvedioWebPage/index.html"
   },
   {
